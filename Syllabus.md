@@ -22,7 +22,7 @@ Introduction to the concepts of computer information systems as problemsolving t
 * The student will demonstrate their skill with Internet based research methods and find relevant information to be used for a paper related to computers and their chosen profession. 
 * Demonstrate an understanding of the development and use of information systems in business.
 
-## Course Schedule
+## Course Schedule Fall 2016
 
 | Week | Chapter | Description | Notes |
 ----------------------------------------
