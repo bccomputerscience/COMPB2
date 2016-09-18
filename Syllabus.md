@@ -30,67 +30,60 @@ Thursday | 1:00pm – 2:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
-This course is an introduction to the discipline of computer science, with a focus on the 
-design and implementation of algorithms to solve simple problems using a high-level programming 
-language. Topics include fundamental programming constructs, problem-solving strategies, 
-debugging techniques, declaration models, and an overview of procedural and object-oriented 
-programming languages. Students will learn to design, implement, test, and debug algorithms 
-using pseudocode and a high-level programming language. Not open to students who have previously 
-received credit for COMS B14.
+This course is an Introduction to the concepts of computer information systems as problem-solving tools in business, 
+economics, mathematics, and the sciences. Includes the history of computer system components, and sequential and 
+direct-access processing.  Database management systems, teleprocessing, and distributed processing are covered. An 
+overview of personal computer applications software (word processing, electronic spreadsheets, and personal database 
+management systems) is also included. 
+Not open to students who have previously received credit for COMS B2, COMS B3, or COMP B3.
+
 
 ## Student Learning Outcomes
-Understand and know how to use fundamental programming constructs 
-* Analyze and explain the behavior of simple programs involving the fundamental programming constructs covered by this unit. 
-* Modify and expand short programs that use standard conditional and iterative control structures and functions. 
-* Design, implement, test, and debug a program that uses each of the following fundamental programming constructs: basic computation, simple I/O, standard conditional and iterative structures, and the definition of functions. 
-* Choose appropriate conditional and iteration constructs for a given programming task. 
-* Apply the techniques of structured (functional) decomposition to break a program into smaller pieces. 
-* Describe the mechanics of parameter passing. 
-* Design, implement, test, and debug simple programs in an object-oriented programming language.
-
-Design and implement algorithms to solve problems 
-* Discuss the importance of algorithms in the problem-solving process. 
-* Identify the necessary properties of good algorithms. 
-* Create algorithms for solving simple problems. 
-* Use pseudocode or a programming language to implement, test, and debug algorithms for solving simple problems. 
-* Describe strategies that are useful in debugging.
-
-
-Discuss general programming-language ideas 
-* Summarize the evolution of programming languages illustrating how this history has led to the paradigms available today. 
-* Identify at least one distinguishing characteristic for each of the programming paradigms covered in this unit.
-
-Understand and use variables and types 
-* Explain the value of declaration models, especially with respect to programming-in-the-large. 
-* Identify and describe the properties of a variable such as its associated address, value, scope, persistence, and size. 
-* Discuss type incompatibility. 
-* Demonstrate different forms of binding, visibility, scoping, and lifetime management. 
-* Defend the importance of types and type-checking in providing abstraction and safety. 
-* Design and implement user-defined types, using Object-Oriented principles.
+The following are the goals for students taking this class. 
+1.	The student will create a document in a word processor, spreadsheet, database management program and apply various formatting/function/aggregate features from each product.
+2.	The student will analyze the appropriate use of systems and application software and describe the benefits/purpose related to business and other organizations
+3.	The student will identify various computer hardware devices and itemize the purpose of each device as well as how each device works.
+4.	The student will demonstrate their skill with Internet based research methods and find relevant information to be used for a paper related to computers and their chosen profession. 
+5.	Demonstrate an understanding of the development and use of information systems in business.
 
 ## Textbook
 
 ### Required:
-* Java Concepts (Early Objects) (8th edition) by Cay S. Horstmann, ISBN: 9781119056454  
+* ¥	Visualizing Technology Geoghan ISBN: 9780134657844
+* ¥	Four (5) green 100-answer test scan sheets (FORM NO. 882-ES). 
 * BC Email Address   
 * Flash Drive
 
-### Optional:
-The Java Tutorial URL: https://docs.oracle.com/javase/tutorial/
-
 ## Accommodations 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled 
+Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling 
+Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
 
 ## Equity and Inclusion
-Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
+Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based 
+on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making 
+and action. BC embraces individual difference and expects all employees and students to respect these differences and 
+accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from 
+their own.
 
 ## Course Policies  
-Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards section of the Bakersfield College Catalog.
-Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero.
-Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. Turn cells phones off before class starts and respond only after class ends. Unless it is an emergency, do not leave class to answer the phone and do not text message. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices are not to be used in class for non-class related activities. 
+Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards 
+section of the Bakersfield College Catalog. Collaboration in class while working on assignments is encouraged. Various 
+projects in class will require group work. Students who do not participate equally with others on assigned group projects 
+will receive a grade of zero. Please be sensitive to the learning environment and the needs of each and every student in class. 
+Avoid causing distractions or engaging in non-class activity. Turn cells phones off before class starts and respond only after 
+class ends. Unless it is an emergency, do not leave class to answer the phone and do not text message. Do not conduct personal 
+conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers 
+or other electronic devices are not to be used in class for non-class related activities. 
 
 ## Attendance
-Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in
+the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be 
+dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not 
+retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule 
+and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in 
+the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early 
+departure.
 
 ## Assignments, Quizzes and Exams
 
@@ -117,14 +110,21 @@ You may always arrange to turn in assignments or take exams in advance of the sc
 
 
 ## Extra Credit
-Read 
+Go to a BC Library Workshop (5 pts)  
+[Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
+* Maximum of two workshops per semester course
+
+## Habits of Mind
+Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
+habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
+
 
 ## Weekly Schedule
-Date | Week | Subject | Notes | Assign/Due
+Date | Week | Subject | Reading | Assign/Due
 ------------ | ------------- | ------------- | ------------- | -------------
-Aug 24 | 1 |  Horstmann: 1. Introduction | |
-Aug 26 |  |  | |
-Aug 29 | 2 |  Horstmann: 2. Using Objects | | 
+Aug 22 | 1 |  Orientation | |
+Aug 24 |  | What is a Computer? | Ch. 1 |
+Aug 29 | 2 |  Application Software | Ch. 2 | 
 Aug 31 |  |  | |
 Sept 4 | 3 |  Labor Day – Campus Closed | | 
 Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
@@ -155,3 +155,8 @@ Nov 23 |  |  | |
 Nov 28 | 14 |  Horstmann: 3. Implementing Classes | | Homework 10
 Nov 30 |  | Review for final | |
 Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
+
+
+### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
+### This syllabus is TENTATIVE and subject to change
+
