@@ -13,7 +13,7 @@ Phone: (661) 395-4879
 web: courses.eddierangel.com/bc
 
 ## Course Information
-Business-11:  
+Room: Business-11:  
 Tuesday 8:00am - 9:25am      
 Thursday 8:00 - 9:25am  
 
@@ -49,8 +49,8 @@ The following are the goals for students taking this class.
 ## Textbook
 
 ### Required:
-* ¥	Visualizing Technology Geoghan ISBN: 9780134657844
-* ¥	Four (5) green 100-answer test scan sheets (FORM NO. 882-ES). 
+* Visualizing Technology Geoghan ISBN: 9780134657844
+* Four (5) green 100-answer test scan sheets (FORM NO. 882-ES). 
 * BC Email Address   
 * Flash Drive
 

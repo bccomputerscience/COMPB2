@@ -1,4 +1,4 @@
-# COMP B2 - Programming Concepts and Methodology I
+#COMP B2: Intro to Computer Information Systems 
 ## Fall 2016 CRN: 70555
 
 ### Eddie Rangel
@@ -13,7 +13,7 @@ Phone: (661) 395-4879
 web: courses.eddierangel.com/bc
 
 ## Course Information
-Business-11:  
+Room: Business-11:  
 Tuesday 8:00am - 9:25am      
 Thursday 8:00 - 9:25am  
 
