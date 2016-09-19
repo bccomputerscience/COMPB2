@@ -1,4 +1,4 @@
-# COMP B2 - Programming Concepts and Methodology I
+# COMP B2 - Intro to Computer Information Systems 
 ## Fall 2016 CRN: 70555
 
 ### Eddie Rangel
@@ -7,18 +7,18 @@ Information Technology
 Bakersfield College  
 
 ## Contact Information
-Office: Business 13  
+Building/Room: Business 13  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 web: courses.eddierangel.com/bc
 
 ## Course Information
-Room: Business-5:  
+Building/Room: Business 5:  
 Monday 1:00 pm - 2:25 pm 
 Wednesday 1:00 pm - 2:25 pm 
 
 ## Office Hours
-Office: Business 13
+Building/Room: Business 13
 
 Day | Time
 ------------ | -------------
@@ -89,11 +89,13 @@ departure.
 
 Assignment | Points
 ------------ | -------------
-Project | 50
+5 Homework Assignments (20 points each) | 100
+10 Chapter Reviews (10 points each) | 100
+1 Article Summary | 50
 Pop Quizzes (5 @ 10 pts) | 50
-Midterm | 50
-Programming Assignments (10 @ 25 points each) | 250
+3 Exams (50 points each) | 150
 Final Exam | 100
+Total | 500
 
 Range (%) | grade 
 ------------ | -------------
@@ -124,37 +126,39 @@ Date | Week | Subject | Reading | Assign/Due
 ------------ | ------------- | ------------- | ------------- | -------------
 Aug 22 | 1 |  Orientation | |
 Aug 24 |  | What is a Computer? | Ch. 1 |
-Aug 29 | 2 |  Application Software | Ch. 2 | 
-Aug 31 |  |  | |
+Aug 29 | 2 |  |  | 
+Aug 31 |  | Application Software | Ch. 2 |
 Sept 4 | 3 |  Labor Day – Campus Closed | | 
 Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
-Sept 7 |  |  | | Homework 1 
-Sept 12 | 4 | Horstmann: 3. Implementing Classes | |
-Sept 14 |  |  |  | Quiz One
-Sept 19 | 5 |  |  | Homework 2 
-Sept 21 |  | Horstmann: 4. Fundamental Data Types | |
-Sept 26 | 6 |  |  | Homework 3
-Sept 28 |  |  |  | 
-Oct 3 | 7 | Horstmann: 5. Decisions | | Homework 4 
-Oct 5 |  |  | | 
-Oct 10 | 8 |  | | Homework 5 
-Oct 12 |  |  Midterm Exam | | 
-Oct 17 | 9 | Horstmann: 6. Loops | |
-Oct 19 |  |  | | 
+Sept 7 |  | File Management | Ch. 3 |  
+Sept 12 | 4 | Hardware | Ch. 4 |
+Sept 14 |  |  |  | 
+Sept 19 | 5 | System Software | Ch. 5 | Ch. 3 Review Due 
+Sept 21 |  | **Exam #1** | | Email Assignment Due
+Sept 26 | 6 | Digital Devices and Multimedia | Ch. 6 | Ch. 4 Review Due
+Sept 28 |  |  |  | Word Project Assigned
+Oct 3 | 7 | The Internet | Ch. 7 | Ch. 6 Review Due 
+Oct 5 |  |  | | Word Proejct Due
+Oct 10 | 8 | Communicating and Sharing | Ch. 8 | Ch. 7 Review Due 
+Oct 12 |  |  | | 
+Oct 17 | 9 | **Exam #2** | | Ch. 8 Review Due
+Oct 19 |  | Research Article | | Excel Project Assigned 
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 24 | 10 |  | | Homework 6 
-Oct 26 |  | Horstmann: 7. Arrays and Array Lists | | 
-Oct 31 | 11 |  | |
-Nov 2 |  |  | | Homework 7 
-Nov 7 | 11 |  Horstmann: 8. Designing Classes | | 
-Nov 9 |  |  | | Homework 8
-Nov 14 | 12 | Horstmann: 8. Designing Classes Continued | | 
-Nov 16 |  |  | | Homework 9
-Nov 21 | 13 | Horstmann: 9. Inheritance | | 
-Nov 23 |  |  | |
-Nov 28 | 14 |  Horstmann: 3. Implementing Classes | | Homework 10
+Oct 24 | 10 | Networks and Communication | Ch. 9 | 
+Oct 26 |  |  | | Excel Project Due 
+Oct 31 | 11 | Security and Privacy | Ch. 10 | Ch. 9 Review Due
+Nov 2 |  |  | | Computer Specification Project Assigned
+Nov 7 | 12 |  Database | Ch. 11 | Ch. 10 Review Due 
+Nov 9 |  |  | | Computer Specification Project Due
+Nov 11 | Veterans Day Holiday Campus Closed |  | |
+Nov 14 | 13 | **Exam #3** | | Ch. 11 Review Due
+Nov 16 |  | Program Development | Ch. 12 | 
+Nov 21 | 14 | | | 
+Nov 23 |  | Professional Developemt | | Ch. 12 Review Due
+Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
+Nov 28 | 15 | Pro Dev Cont. | | 
 Nov 30 |  | Review for final | |
-Dec 8 | 15 |  Final Exam - 8:00 am to 9:50 am | | 
+Dec 7 | 16 |  Final Exam - 12:00 pm to 1:50 9m | | 
 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
