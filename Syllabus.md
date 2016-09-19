@@ -130,14 +130,14 @@ Aug 29 | 2 |  |  |
 Aug 31 |  | Application Software | Ch. 2 |
 Sept 4 | 3 |  Labor Day – Campus Closed | | 
 Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
-Sept 7 |  | File Management | Ch. 3 |  
-Sept 12 | 4 | Hardware | Ch. 4 |
+Sept 7 |  | File Management | Ch. 3 |  Ch. 2 Review Due
+Sept 12 | 4 | Hardware | Ch. 4 | 
 Sept 14 |  |  |  | 
 Sept 19 | 5 | System Software | Ch. 5 | Ch. 3 Review Due 
 Sept 21 |  | **Exam #1** | | Email Assignment Due
 Sept 26 | 6 | Digital Devices and Multimedia | Ch. 6 | Ch. 4 Review Due
 Sept 28 |  |  |  | Word Project Assigned
-Oct 3 | 7 | The Internet | Ch. 7 | Ch. 6 Review Due 
+Oct 3 | 7 | The Internet | Ch. 7 | Ch. 5 & 6 Review Due 
 Oct 5 |  |  | | Word Proejct Due
 Oct 10 | 8 | Communicating and Sharing | Ch. 8 | Ch. 7 Review Due 
 Oct 12 |  |  | | 
@@ -158,7 +158,7 @@ Nov 23 |  | Professional Developemt | | Ch. 12 Review Due
 Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
 Nov 28 | 15 | Pro Dev Cont. | | 
 Nov 30 |  | Review for final | |
-Dec 7 | 16 |  Final Exam - 12:00 pm to 1:50 9m | | 
+Dec 7 | 16 |  **Final Exam - 12:00 pm to 1:50 pm** | | 
 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
