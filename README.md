@@ -1,24 +1,25 @@
-#COMP B2: Intro to Computer Information Systems 
+# COMP B2 - Intro to Computer Information Systems 
 ## Fall 2016 CRN: 70555
 
-### Eddie Rangel
+## Instructor
+Eddie Rangel  
 Asst. Professor  
 Information Technology  
-Bakersfield College  
+Bakersfield College   
 
 ## Contact Information
-Office: Business 13  
+Building/Room: Business 13  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 web: courses.eddierangel.com/bc
 
 ## Course Information
-Room: Business-11:  
-Tuesday 8:00am - 9:25am      
-Thursday 8:00 - 9:25am  
+Building/Room: Business 5:  
+Monday 1:00 pm - 2:25 pm 
+Wednesday 1:00 pm - 2:25 pm 
 
 ## Office Hours
-Office: Business 13
+Building/Room: Business 13
 
 Day | Time
 ------------ | -------------

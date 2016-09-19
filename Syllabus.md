@@ -1,7 +1,8 @@
 # COMP B2 - Intro to Computer Information Systems 
 ## Fall 2016 CRN: 70555
 
-### Eddie Rangel
+## Instructor
+Eddie Rangel  
 Asst. Professor  
 Information Technology  
 Bakersfield College  
@@ -156,7 +157,7 @@ Nov 16 |  | Program Development | Ch. 12 |
 Nov 21 | 14 | | | 
 Nov 23 |  | Professional Developemt | | Ch. 12 Review Due
 Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
-Nov 28 | 15 | Pro Dev Cont. | | 
+Nov 28 | 15 | Pro Dev Cont. | | Article Summary Due
 Nov 30 |  | Review for final | |
 Dec 7 | 16 |  **Final Exam - 12:00 pm to 1:50 pm** | | 
 
