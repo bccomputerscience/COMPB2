@@ -13,9 +13,9 @@ Phone: (661) 395-4879
 web: courses.eddierangel.com/bc
 
 ## Course Information
-Room: Business-11:  
-Tuesday 8:00am - 9:25am      
-Thursday 8:00 - 9:25am  
+Room: Business-5:  
+Monday 1:00 pm - 2:25 pm 
+Wednesday 1:00 pm - 2:25 pm 
 
 ## Office Hours
 Office: Business 13
