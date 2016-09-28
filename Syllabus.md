@@ -136,29 +136,29 @@ Sept 12 | 4 | Hardware | Ch. 4 |
 Sept 14 |  |  |  | 
 Sept 19 | 5 | System Software | Ch. 5 | Ch. 3 Review Due 
 Sept 21 |  | **Exam #1** | | Email Assignment Due
-Sept 26 | 6 | Digital Devices and Multimedia | Ch. 6 | Ch. 4 Review Due
+Sept 26 | 6 | PBS Documentary Silicon Valley |  | Ch. 4 Review Due
 Sept 28 |  |  |  | Word Project Assigned
-Oct 3 | 7 | The Internet | Ch. 7 | Ch. 5 & 6 Review Due 
+Oct 3 | 7 | Digital Devices and Multimedia | Ch. 6 | Ch. 4 Review Due 
 Oct 5 |  |  | | Word Proejct Due
-Oct 10 | 8 | Communicating and Sharing | Ch. 8 | Ch. 7 Review Due 
+Oct 10 | 8 | The Internet | Ch. 7 | Ch. 5 & 6 Review Due  
 Oct 12 |  |  | | 
-Oct 17 | 9 | **Exam #2** | | Ch. 8 Review Due
+Oct 17 | 9 | Communicating and Sharing | Ch. 8 | Ch. 7 Review Due
 Oct 19 |  | Research Article | | Excel Project Assigned 
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 24 | 10 | Networks and Communication | Ch. 9 | 
+Oct 24 | 10 | **Exam #2** | | Ch. 8 Review Due
 Oct 26 |  |  | | Excel Project Due 
-Oct 31 | 11 | Security and Privacy | Ch. 10 | Ch. 9 Review Due
-Nov 2 |  |  | | Computer Specification Project Assigned
-Nov 7 | 12 |  Database | Ch. 11 | Ch. 10 Review Due 
-Nov 9 |  |  | | Computer Specification Project Due
+Oct 31 | 11 | Networks and Communication | Ch. 9 | 
+Nov 2 |  |  | | 
+Nov 7 | 12 | Security and Privacy | Ch. 10 | Computer Specification Project Assigned Ch. 9 Review Due  
+Nov 9 |  |  Database | Ch. 11 | Ch. 10 Review Due 
 Nov 11 | Veterans Day Holiday Campus Closed |  | |
-Nov 14 | 13 | **Exam #3** | | Ch. 11 Review Due
-Nov 16 |  | Program Development | Ch. 12 | 
-Nov 21 | 14 | | | 
-Nov 23 |  | Professional Developemt | | Ch. 12 Review Due
+Nov 14 | 13 | **Exam #3** | | 
+Nov 16 |  |  |  | 
+Nov 21 | 14 | Database | Ch. 11 | Ch. 10 Review Due  
+Nov 23 |  |  | | Computer Specification Project Due 
 Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
-Nov 28 | 15 | Pro Dev Cont. | | Article Summary Due
-Nov 30 |  | Review for final | |
+Nov 28 | 15 | Program Development | Ch. 12 | Article Summary Due Ch. 11 Review Due 
+Nov 30 |  | Review for final | | Ch. 12 Review Due
 Dec 7 | 16 |  **Final Exam - 12:00 pm to 1:50 pm** | | 
 
 
