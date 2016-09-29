@@ -146,10 +146,10 @@ Oct 17 | 9 | Communicating and Sharing | Ch. 8 | Ch. 7 Review Due
 Oct 19 |  | Research Article | | Excel Project Assigned 
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 24 | 10 | **Exam #2** | | Ch. 8 Review Due
-Oct 26 |  |  | | Excel Project Due 
-Oct 31 | 11 | Networks and Communication | Ch. 9 | 
-Nov 2 |  |  | | 
-Nov 7 | 12 | Security and Privacy | Ch. 10 | Computer Specification Project Assigned Ch. 9 Review Due  
+Oct 26 |  | Networks and Communication | Ch. 9 | Excel Project Due 
+Oct 31 | 11 |  |  | 
+Nov 2 |  | Security and Privacy | Ch. 10 | 
+Nov 7 | 12 |  |  | Computer Specification Project Assigned Ch. 9 Review Due  
 Nov 9 |  |  Database | Ch. 11 | Ch. 10 Review Due 
 Nov 11 | Veterans Day Holiday Campus Closed |  | |
 Nov 14 | 13 | **Exam #3** | | 
