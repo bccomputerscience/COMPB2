@@ -96,7 +96,7 @@ Assignment | Points
 Pop Quizzes (5 @ 10 pts) | 50
 3 Exams (50 points each) | 150
 Final Exam | 100
-Total | 500
+**Total** | **500**
 
 Range (%) | grade 
 ------------ | -------------
@@ -105,10 +105,11 @@ Range (%) | grade
 70 >= | C
 60 >= | D
 60 >= | F
+* Grading is not curved.  89.99999 is a B.
 
 
 ## Exams, Assignments, and Late Policy 
-MAKE-UP EXAMS OR QUIZZES WILL NOT BE GIVEN AND LATE ASSIGNMENTS WILL NOT BE ACCEPTED. Assignments are due at the BEGINNING of the class session. 
+Make-up exams or quizzes will not be given and late assignments will not be accepted.. Assignments are due at the beginning of the class session. 
 You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late. 
 
 
@@ -138,9 +139,9 @@ Sept 19 | 5 | System Software | Ch. 5 | Ch. 3 Review Due
 Sept 21 |  | **Exam #1** | | Email Assignment Due
 Sept 26 | 6 | PBS Documentary Silicon Valley |  | Ch. 4 Review Due
 Sept 28 |  |  |  | 
-Oct 3 | 7 | Digital Devices and Multimedia | Ch. 6 | Word Project Assigned   Ch. 5 Review Due 
+Oct 3 | 7 | Digital Devices and Multimedia | Ch. 6 | Word Project Assigned Ch. 5 Review Due 
 Oct 5 |  |  | | 
-Oct 10 | 8 | The Internet | Ch. 7 | Word Proejct Due   Ch. 6 Review Due  
+Oct 10 | 8 | The Internet | Ch. 7 | Word Proejct Due Ch. 6 Review Due  
 Oct 12 |  |  | | 
 Oct 17 | 9 | Communicating and Sharing | Ch. 8 | Ch. 7 Review Due
 Oct 19 |  | Research Article | | Excel Project Assigned 
