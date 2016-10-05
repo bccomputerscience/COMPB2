@@ -138,7 +138,7 @@ Sept 14 |  |  |  |
 Sept 19 | 5 | System Software | Ch. 5 | Ch. 3 Review Due 
 Sept 21 |  | **Exam #1** | | Email Assignment Due
 Sept 26 | 6 | PBS Documentary Silicon Valley |  | Ch. 4 Review Due
-Sept 28 |  |  |  | [Quiz 2 Solutions]()
+Sept 28 |  |  |  | [Quiz 2 Solutions](https://github.com/eddierangel/COMPB2/blob/master/solutions/Quiz%202%20Solutions.pdf)
 Oct 3 | 7 | Digital Devices and Multimedia | Ch. 6 | Word Project Assigned Ch. 5 Review Due 
 Oct 5 |  |  | | 
 Oct 10 | 8 | The Internet | Ch. 7 | Word Proejct Due Ch. 6 Review Due  
