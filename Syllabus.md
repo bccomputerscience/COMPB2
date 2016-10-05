@@ -95,7 +95,7 @@ Assignment | Points
 1 Article Summary | 50
 Pop Quizzes (5 @ 10 pts) | 50
 3 Exams (50 points each) | 150
-Final Exam | 100
+Final Exam | 50
 **Total** | **500**
 
 Range (%) | grade 
