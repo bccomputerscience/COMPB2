@@ -153,13 +153,13 @@ Nov 2 |  | Security and Privacy | Ch. 10 |
 Nov 7 | 12 |  |  | Computer Specification Project Assigned Ch. 9 Review Due  
 Nov 9 |  |  Database | Ch. 11 | Ch. 10 Review Due 
 Nov 11 | Veterans Day Holiday Campus Closed |  | |
-Nov 14 | 13 | **Exam #3** | | 
+Nov 14 | 13 | | | 
 Nov 16 |  |  |  | 
 Nov 21 | 14 | Database | Ch. 11 | Ch. 10 Review Due  
 Nov 23 |  |  | | Computer Specification Project Due 
 Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
 Nov 28 | 15 | Program Development | Ch. 12 | Ch. 11 Review Due 
-Nov 30 |  |  **Article Summary Due** | | Ch. 12 Review Due 
+Nov 30 |  |  **Exam #3** | **Article Summary Due** | Ch. 12 Review Due 
 Dec 7 | 16 |  **Final Exam - 12:00 pm to 1:50 pm** | | 
 
 
