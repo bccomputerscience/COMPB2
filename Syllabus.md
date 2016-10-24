@@ -144,11 +144,11 @@ Oct 5 |  |  | |
 Oct 10 | 8 | The Internet | Ch. 7 | Word Proejct Due Ch. 6 Review Due  
 Oct 12 |  |  | | 
 Oct 17 | 9 | Communicating and Sharing | Ch. 8 | Ch. 7 Review Due
-Oct 19 |  | Research Article | | Excel Project Assigned 
+Oct 19 |  |  | |  
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 24 | 10 | **Exam #2** | | Ch. 8 Review Due
-Oct 26 |  | Networks and Communication | Ch. 9 | Excel Project Due 
-Oct 31 | 11 |  |  | 
+Oct 24 | 10 | Research Article | | Ch. 8 Review Due Excel Project Assigned
+Oct 26 |  | **Exam #2**   |  | 
+Oct 31 | 11 | Networks and Communication | Ch. 9 | Excel Project Due  
 Nov 2 |  | Security and Privacy | Ch. 10 | 
 Nov 7 | 12 |  |  | Computer Specification Project Assigned Ch. 9 Review Due  
 Nov 9 |  |  Database | Ch. 11 | Ch. 10 Review Due 
