@@ -55,10 +55,11 @@ The following are the goals for students taking this class.
 * BC Email Address   
 * Flash Drive
 
-## Accommodations 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled 
-Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling 
-Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
+## Accommodations and Special Considerations
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs 
+& Services at (661) 395-4334, (on-campus located at Student Success Center Building, 1st Floor, Counseling Center), as soon as possible 
+to better ensure such accommodations are implemented in a timely fashion. Students who have received an accomodations checklist must bring
+me a copy as directed. It is the students responsibility to arrange any alternative testing that is allowed under the accomodations checklist.
 
 ## Equity and Inclusion
 Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based 
@@ -67,15 +68,27 @@ and action. BC embraces individual difference and expects all employees and stud
 accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from 
 their own.
 
-## Course Policies  
-Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards 
-section of the Bakersfield College Catalog. Collaboration in class while working on assignments is encouraged. Various 
-projects in class will require group work. Students who do not participate equally with others on assigned group projects 
-will receive a grade of zero. Please be sensitive to the learning environment and the needs of each and every student in class. 
-Avoid causing distractions or engaging in non-class activity. Turn cells phones off before class starts and respond only after 
-class ends. Unless it is an emergency, do not leave class to answer the phone and do not text message. Do not conduct personal 
-conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers 
-or other electronic devices are not to be used in class for non-class related activities. 
+## Academic Honesty
+Each student in this course will abide by the Academic Honesty Policy described in the Academic Information and Standards section of the Bakersfield College Catalog.
+Collaboration in class while working on assignments is encouraged. Various projects in class will require group work. Students who do not participate equally with others on assigned group projects will receive a grade of zero.
+Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. 
+
+### Actions that will not be tolorated 
+* Using any unauthorized material during an exam, quiz, or any time of assignment
+* Copying another students work including source code
+* Collaborating during an exam
+* Buying, stealing, or otherwise obtaining information regarding course's assessment material
+* Submitting another peron's work as your own
+* Giving your work to another person to fullfill their assignments
+* Plagiarizing 
+
+A violation of our academic standards will be immediately reported to the Dead of Student Life plus zero points earned for any assignment involved for each person involved.
+No excpetions.
+
+## Digital Devices (Cell phones, Personal Computer Devices)
+Cell phones and cell phone usage is a classroom disruption. You know how to use and operate your devices. It is expected that you will turn cells phones off or otherwise silence your devices before class starts and respond only after class ends. If class has not started, please do not
+have conversations within class on your device. Carry your conversation outside of the classroom. If there is an an emergency, you should leave the class to answer your calls or messages. Do not send text messages while in class. Again, have your conversations outside of class. This includes any
+other social media platform that has messaging capabilities. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices should not be used in class for non-class related activities. In classes with Labs or other areas where computers are being used, these systems are provided for classroom activities only. 
 
 ## Attendance
 Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in
@@ -86,14 +99,27 @@ and in the online campus schedule “Important Dates” section. It is also expe
 the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early 
 departure.
 
+## General Classroom Etiquette
+The intent of the classroom etiquette policy is to outline the need to have considerations for other students within your class. The following guidelines
+have been provided to help you understand what this means.
+
+* Digital devices should be silenced, turned off, or otherwise muted. 
+* Prepare your desktop/tabletop area before the lecture starts. Prepare to leave once the lecture is concluded. Not before.
+  * If you're in a computer lab, get logged in promptly. 
+* No eating in the classroom.
+  * If you're in a computer lab, do not bring in outside beverages.
+* Sleeping is now allowed. If you are tired, please rest outside of the classroom. If you'd like, you can stand up in the back of the class.
+  * If you are asleep you will be asked to leave. 
+
+
 ## Assignments, Quizzes and Exams
 
 Assignment | Points
 ------------ | -------------
-5 Homework Assignments (20 points each) | 100
+4 Homework Assignments (25 points each) | 100
 10 Chapter Reviews (10 points each) | 100
 1 Article Summary | 50
-Pop Quizzes (5 @ 10 pts) | 50
+Pop Quizzes (5 @ 10 pts) | 30
 3 Exams (50 points each) | 150
 Final Exam | 50
 **Total** | **500**
@@ -163,6 +189,6 @@ Nov 30 |  |  **Exam #3** | **Article Summary Due** | Ch. 12 Review Due
 Dec 7 | 16 |  **Final Exam - 12:00 pm to 1:50 pm** | | 
 
 
-### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
-### This syllabus is TENTATIVE and subject to change
+### Read the material for the week before class
+### This syllabus is tentative and subject to change
 
