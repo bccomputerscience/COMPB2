@@ -177,7 +177,7 @@ Oct 26 |  | **Exam #2**   |  |
 Oct 31 | 11 | Networks and Communication | Ch. 9 | Excel Project Due  
 Nov 2 |  |  |  | 
 Nov 7 | 12 | Security and Privacy | Ch. 10 | Computer Specification Project Assigned Ch. 9 Review Due  
-Nov 9 |  |   |  |  
+Nov 9 |  | Web Warrior Documentary  |  |  
 Nov 11 | Veterans Day Holiday Campus Closed |  | |
 Nov 14 | 13 | Databases | Ch. 11 | Ch. 10 Review Due 
 Nov 16 |  |  |  | 
