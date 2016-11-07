@@ -175,11 +175,11 @@ Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 24 | 10 | Research Article | | Ch. 8 Review Due Excel Project Assigned
 Oct 26 |  | **Exam #2**   |  | 
 Oct 31 | 11 | Networks and Communication | Ch. 9 | Excel Project Due  
-Nov 2 |  | Security and Privacy | Ch. 10 | 
-Nov 7 | 12 |  |  | Computer Specification Project Assigned Ch. 9 Review Due  
-Nov 9 |  |  Database | Ch. 11 | Ch. 10 Review Due 
+Nov 2 |  |  |  | 
+Nov 7 | 12 | Security and Privacy | Ch. 10 | Computer Specification Project Assigned Ch. 9 Review Due  
+Nov 9 |  |   |  |  
 Nov 11 | Veterans Day Holiday Campus Closed |  | |
-Nov 14 | 13 | | | 
+Nov 14 | 13 | Databases | Ch. 11 | Ch. 10 Review Due 
 Nov 16 |  |  |  | 
 Nov 21 | 14 | Database | Ch. 11 | Ch. 10 Review Due  
 Nov 23 |  |  | | Computer Specification Project Due 
